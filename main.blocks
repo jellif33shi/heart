@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="7=Vzp+0E8Wq-Ht~ZExxZ">myImage</variable><variable id=":fwRSXqm2uk*1*V?{]b{">sprite</variable></variables><block type="pxt-on-start" id="##6*{;|M{L|psmH;]c,o" x="0" y="0"></block><block type="device_forever" id="k+`S2g5Y@tt%[TCYaC0k" x="336" y="10"></block><block type="device_build_big_image" id="olY^~w{)9TpYO)7V.sP$" disabled="true" x="331" y="31"><field name="LEDS">`
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . .
+        `</field></block></xml>
